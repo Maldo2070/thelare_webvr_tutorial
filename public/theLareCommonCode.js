@@ -10,3 +10,4 @@ var drawingRoom = vRViewPlayer('#first-vr-example', {
 });
 
 window.addEventListener('load', drawingRoom);
+// Delete lines 14-28
