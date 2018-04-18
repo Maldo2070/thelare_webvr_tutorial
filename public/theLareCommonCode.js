@@ -5,8 +5,8 @@ var vRViewPlayer = function(elementIdName, options) {
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
   // image: 'assets/dolphins.jpg',
-  image: 'https://cdn.pbrd.co/images/Hhf03R1.jpg,
-  is_stereo: true,
+  image: 'https://pasteboard.co/Hhf03R1.jpg/download',
+  is_stereo: false,
 });
 
 window.addEventListener('load', drawingRoom);
